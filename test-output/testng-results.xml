@@ -5,16 +5,16 @@
       <![CDATA[Err Msg is displayed]]>
     </line>
   </reporter-output>
-  <suite started-at="2024-07-10T08:00:23 IST" name="Default suite" finished-at="2024-07-10T08:00:36 IST" duration-ms="12895">
+  <suite started-at="2024-07-10T08:07:45 IST" name="Default suite" finished-at="2024-07-10T08:07:50 IST" duration-ms="4397">
     <groups>
     </groups>
-    <test started-at="2024-07-10T08:00:23 IST" name="Default test" finished-at="2024-07-10T08:00:36 IST" duration-ms="12895">
+    <test started-at="2024-07-10T08:07:45 IST" name="Default test" finished-at="2024-07-10T08:07:50 IST" duration-ms="4397">
       <class name="scripts.InvalidLogin">
-        <test-method is-config="true" signature="createReport()[pri:0, instance:scripts.InvalidLogin@6069db50]" started-at="2024-07-10T08:00:23 IST" name="createReport" finished-at="2024-07-10T08:00:23 IST" duration-ms="192" status="PASS">
+        <test-method is-config="true" signature="createReport()[pri:0, instance:scripts.InvalidLogin@6069db50]" started-at="2024-07-10T08:07:45 IST" name="createReport" finished-at="2024-07-10T08:07:45 IST" duration-ms="186" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- createReport -->
-        <test-method is-config="true" signature="preCondition(java.lang.reflect.Method)[pri:0, instance:scripts.InvalidLogin@6069db50]" started-at="2024-07-10T08:00:23 IST" name="preCondition" finished-at="2024-07-10T08:00:34 IST" duration-ms="10588" status="PASS">
+        <test-method is-config="true" signature="preCondition(java.lang.reflect.Method)[pri:0, instance:scripts.InvalidLogin@6069db50]" started-at="2024-07-10T08:07:45 IST" name="preCondition" finished-at="2024-07-10T08:07:47 IST" duration-ms="2005" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -25,14 +25,14 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- preCondition -->
-        <test-method signature="testInvalidLogin()[pri:2, instance:scripts.InvalidLogin@6069db50]" started-at="2024-07-10T08:00:34 IST" name="testInvalidLogin" finished-at="2024-07-10T08:00:35 IST" duration-ms="953" status="PASS">
+        <test-method signature="testInvalidLogin()[pri:2, instance:scripts.InvalidLogin@6069db50]" started-at="2024-07-10T08:07:47 IST" name="testInvalidLogin" finished-at="2024-07-10T08:07:48 IST" duration-ms="1078" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[Err Msg is displayed]]>
             </line>
           </reporter-output>
         </test-method> <!-- testInvalidLogin -->
-        <test-method is-config="true" signature="postCondition(org.testng.ITestResult)[pri:0, instance:scripts.InvalidLogin@6069db50]" started-at="2024-07-10T08:00:35 IST" name="postCondition" finished-at="2024-07-10T08:00:36 IST" duration-ms="1330" status="PASS">
+        <test-method is-config="true" signature="postCondition(org.testng.ITestResult)[pri:0, instance:scripts.InvalidLogin@6069db50]" started-at="2024-07-10T08:07:48 IST" name="postCondition" finished-at="2024-07-10T08:07:50 IST" duration-ms="1294" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -43,7 +43,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- postCondition -->
-        <test-method is-config="true" signature="publishReport()[pri:0, instance:scripts.InvalidLogin@6069db50]" started-at="2024-07-10T08:00:36 IST" name="publishReport" finished-at="2024-07-10T08:00:37 IST" duration-ms="231" status="PASS">
+        <test-method is-config="true" signature="publishReport()[pri:0, instance:scripts.InvalidLogin@6069db50]" started-at="2024-07-10T08:07:50 IST" name="publishReport" finished-at="2024-07-10T08:07:50 IST" duration-ms="279" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- publishReport -->
